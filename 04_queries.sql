@@ -1,0 +1,22 @@
+-- Basic SQL queries
+USE STUDENT_MANAGEMENT_DB;
+
+SELECT * FROM STUDENT;
+
+SELECT f_name, l_name, programme
+FROM STUDENT;
+
+SELECT *
+FROM STUDENT
+WHERE programme = 'BSIT';
+
+SELECT *
+FROM STUDENT
+WHERE town = 'MUKONO';
+
+SELECT *
+FROM STUDENT
+ORDER BY f_name ASC;
+
+SELECT COUNT(*) AS total_students
+FROM STUDENT;

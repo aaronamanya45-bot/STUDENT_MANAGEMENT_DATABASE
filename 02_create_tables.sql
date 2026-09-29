@@ -1,0 +1,10 @@
+-- Create the STUDENT table
+USE STUDENT_MANAGEMENT_DB;
+
+CREATE TABLE STUDENT (
+    std_id INT PRIMARY KEY AUTO_INCREMENT,
+    f_name VARCHAR(100),
+    l_name VARCHAR(100),
+    programme VARCHAR(100),
+    town VARCHAR(200)
+);

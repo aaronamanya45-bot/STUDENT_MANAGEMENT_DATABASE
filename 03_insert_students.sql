@@ -1,0 +1,12 @@
+-- Insert student records
+USE STUDENT_MANAGEMENT_DB;
+
+INSERT INTO STUDENT (f_name, l_name, programme, town)
+VALUES
+('AMANYA', 'AARON', 'BSIT', 'MASAKA'),
+('AMPUMUZA', 'ESTHER', 'BSIT', 'BUSHENYI'),
+('KUBANJA', 'JOEL', 'DIT', 'KAMPALA'),
+('NABUKENYA', 'SARAH', 'BSIT', 'MUKONO'),
+('KARAMAGI', 'HADIJAH', 'BSIT', 'WAKISO');
+
+SELECT * FROM STUDENT;
