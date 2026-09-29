@@ -1,4 +1,4 @@
-# Student Management Database
+# STUDENT MANAGEMENT DATABASE
 
 A simple MySQL database project for learning basic database design and SQL.
 
