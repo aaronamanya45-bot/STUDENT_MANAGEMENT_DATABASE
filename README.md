@@ -67,7 +67,7 @@ The project can be run in MySQL Workbench or another MySQL-compatible environmen
 
 ## Author
 
-**Amanya Aaron**  
+**AMANYA AARON**  
 Bachelor of Science in Information Technology (BSIT)  
 Uganda Christian University (UCU)
 
