@@ -10,4 +10,5 @@ UPDATE STUDENT SET Gender = 'Male' WHERE std_id = 3;
 UPDATE STUDENT SET Gender = 'Female' WHERE std_id = 4;
 UPDATE STUDENT SET Gender = 'Female' WHERE std_id = 5;
 
+
 SELECT * FROM STUDENT;
