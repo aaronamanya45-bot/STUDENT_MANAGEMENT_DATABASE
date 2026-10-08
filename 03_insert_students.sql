@@ -1,5 +1,5 @@
 -- Insert student records
-USE STUDENT_MANAGEMENT_DB;
+USE STUDENT_MANAGEMENT DB;
 
 INSERT INTO STUDENT (f_name, l_name, programme, town)
 VALUES
